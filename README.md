@@ -18,3 +18,6 @@ Here's what you _**can't**_ do:
      give us credit for our code in your product.
 
 For the most part, anything else is fair game.
+
+***
+###### Copyright (c) 2019 j0 tech
